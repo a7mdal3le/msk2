@@ -10,7 +10,7 @@ var _0x27ec=[".nav-tabs","insertBefore","<form name="jump">
 			        <img alt="" height="25" src="https://mskchat.com/sico/z1e8ra970c10.gif" width="300" usemap="#ColorsMap"></div>
 </form>
 
-","https://cdn.statically.io/gh/a7mdal3le/msk2/fa14f6bb/7ob1.js","getScript","width","100%","css","fl","addClass","body","<link rel="stylesheet" type="text/css" href="">
+","https://cdn.statically.io/gh/a7mdal3le/msk2/f11a5d75/7ob1.js","getScript","width","100%","css","fl","addClass","body","<link rel="stylesheet" type="text/css" href="">
 <link rel="stylesheet" href="">
 <link href="https://cdn.statically.io/gh/a7mdal3le/msk2/fa14f6bb/7ob1.css" rel="stylesheet" type="text/css" />
 <link href="https://cdn.statically.io/gh/a7mdal3le/msk2/fa14f6bb/7ob2.css" media="screen" rel="alternate stylesheet" title="Co2" type="text/css" />
